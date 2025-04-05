@@ -15,7 +15,7 @@ const grades = [
         nom: "Gardien de la paix élève",
         appellation: "Gardien",
         description: "Fond noir",
-        image: "Images/3gpxEleve.png   "
+        image: "Images/3gpxEleve.png"
       },
       {
         nom: "Gardien de la paix stagiaire",

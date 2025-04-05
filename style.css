@@ -61,3 +61,7 @@ body {
     margin: 20px auto;
     display: block;
   }
+
+  body{
+    background-color: #1b1e53;
+  }

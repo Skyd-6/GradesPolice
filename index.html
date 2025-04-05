@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Révision des grades PN</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Révise les grades de la Police Nationale</h1>
+    <button onclick="afficherGrade()">Afficher un grade</button>
+
+    <div id="gradeDisplay" class="hidden">
+      <img id="gradeImage" src="" alt="Grade">
+
+      <div class="quiz-zone">
+        <label>Nom du grade :</label>
+        <input type="text" id="inputNom"><br>
+
+        <label>Appellation :</label>
+        <input type="text" id="inputAppellation"><br>
+
+        <label>Description :</label>
+        <input type="text" id="inputDescription"><br>
+
+        <button onclick="verifierReponses()">Vérifier</button>
+      </div>
+
+      <div id="resultat" class="resultat"></div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

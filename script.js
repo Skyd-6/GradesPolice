@@ -127,19 +127,19 @@ const grades = [
       },
       {
         nom: "Inspecteur général",
-        appellation: "Madame / Monsieur l'inspecteur général",
+        appellation: "Monsieur / Madame l'inspecteur général",
         description: "Une branche de chêne neuf feuilles, trois glands, trois pointes de diamant blanc",
         image: "Images/21inspecteurGeneral.png"
       },
       {
         nom: "Directeur des services actifs",
-        appellation: "Madame / Monsieur le directeur",
+        appellation: "Monsieur / Madame le directeur",
         description: "Une branche de chêne neuf feuilles, trois glands, quatre pointes de diamant blanc",
         image: "Images/22directeurDesServicesActifs.png"
       },
       {
         nom: "Directeur général de la police nationale",
-        appellation: "Madame / Monsieur le directeur général",
+        appellation: "Monsieur / Madame le directeur général",
         description: "Une branche de chêne neuf feuilles, trois glands, cinq pointes de diamant blanc",
         image: "Images/23directeurGeneral.png"
       },

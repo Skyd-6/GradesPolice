@@ -3,145 +3,145 @@ const grades = [
       nom: "Réserviste",
       appellation: "Réserviste",
       description: "Fond bleu clair",
-      image: "1reserviste.png"
+      image: "Images/1reserviste.png"
     },
     {
       nom: "Policier adjoint",
       appellation: "Adjoint",
       description: "Fond bleu loire",
-      image: "2adjoint.png"
+      image: "Images/2adjoint.png"
     },
     {
         nom: "Gardien de la paix élève",
         appellation: "Gardien",
         description: "Fond noir",
-        image: "3gpxEleve.png   "
+        image: "Images/3gpxEleve.png   "
       },
       {
         nom: "Gardien de la paix stagiaire",
         appellation: "Gardien",
         description: "Un chevron blanc",
-        image: "4gpxStagiaire.png"
+        image: "Images/4gpxStagiaire.png"
       },
       {
         nom: "Gardien de la paix",
         appellation: "Gardien",
         description: "Deux chevrons blancs",
-        image: "5gpx.png"
+        image: "Images/5gpx.png"
       },
       {
         nom: "Gardien de la paix",
         appellation: "Sous brigadier",
         description: "Trois chevrons blancs",
-        image: "6sousBrigadier.png"
+        image: "Images/6sousBrigadier.png"
       },
       {
         nom: "Brigadier-chef de police",
         appellation: "Brigadier-chef",
         description: "Un galon blanc avec raie rouge",
-        image: "7brigadierChef.png"
+        image: "Images/7brigadierChef.png"
       },
       {
         nom: "Major de police",
         appellation: "Major",
         description: "Un galon blanc avec raie roue, un liseré blanc",
-        image: "8major.png"
+        image: "Images/8major.png"
       },
       {
         nom: "Major de police, responsable d'une unité locale de police",
         appellation: "Major",
         description: "Un galon blanc avec raie rouge, un liseré blanc, un losange blanc",
-        image: "9majorRulp.png"
+        image: "Images/9majorRulp.png"
       },
       {
         nom: "Capitaine de police élève",
         appellation: "Lieutenant",
         description: "Un alpha blanc",
-        image: "10lieutenantEleve.png"
+        image: "Images/10lieutenantEleve.png"
       },
       {
         nom: "Capitaine de police stagiaire",
         appellation: "Lieutenant",
         description: "Un galon blanc",
-        image: "11lieutenantStagiaire.png"
+        image: "Images/11lieutenantStagiaire.png"
       },
       {
         nom: "Capitaine de police",
         appellation: "Lieutenant",
         description: "Deux galons blancs",
-        image: "12lieutenant.png"
+        image: "Images/12lieutenant.png"
       },
       {
         nom: "Capitaine de police",
         appellation: "Capitaine",
         description: "Trois galons blancs",
-        image: "13capitaine.png"
+        image: "Images/13capitaine.png"
       },
       {
         nom: "Commandant de police",
         appellation: "Commandant",
         description: "Quatre galons blancs",
-        image: "14commandant.png"
+        image: "Images/14commandant.png"
       },
       {
         nom: "Commandant divisionnaire",
         appellation: "Commandant divisionnaire",
         description: "Quatre galons blancs, une pointe de diamant or",
-        image: "15commandantDivisionnaire.png"
+        image: "Images/15commandantDivisionnaire.png"
       },
       {
         nom: "Commandant divisionnaire fonctionnel",
         appellation: "Commandant divisionnaire",
         description: "Quatre galons blancs, une pointe de diamant blanc",
-        image: "24commandantDivisionnaireFonctionnel.png"
+        image: "Images/24commandantDivisionnaireFonctionnel.png"
       },
       {
         nom: "Elève commissaire",
         appellation: "Monsieur / Madame le commissaire",
         description: "Une branche de chêne trois feuilles",
-        image: "16commissaireEleve.png"
+        image: "/Images/16commissaireEleve.png"
       },
       {
         nom: "Commissaire de police",
         appellation: "Monsieur / Madame le commissaire",
         description: "Une branche de chêne cinq feuilles, un gland",
-        image: "17commissaire.png"
+        image: "Images/17commissaire.png"
       },
       {
         nom: "Commissaire divisionnaire",
         appellation: "Monsieur / Madame le commissaire divisionnaire",
         description: "Une branche de chêne sept feuilles, deux glands, deux barettes",
-        image: "18commissaireDivisionnaire.png"
+        image: "Images/18commissaireDivisionnaire.png"
       },
       {
         nom: "Commissaire général",
         appellation: "Monsieur / Madame le commissaire général",
         description: "Une branche de chêne neuf feuilles, trois glands, deux pointes de diamant or",
-        image: "19commissaireGeneral.png"
+        image: "Images/19commissaireGeneral.png"
       },
       {
         nom: "Contrôleur général",
         appellation: "Monsieur / Madame le contrôleur général",
         description: "Une branche de chêne neuf feuilles, trois glands, deux pointes de diamant blanc",
-        image: "20controleurGeneral.png"
+        image: "Images/20controleurGeneral.png"
       },
       {
         nom: "Inspecteur général",
         appellation: "Madame / Monsieur l'inspecteur général",
         description: "Une branche de chêne neuf feuilles, trois glands, trois pointes de diamant blanc",
-        image: "21inspecteurGeneral.png"
+        image: "Images/21inspecteurGeneral.png"
       },
       {
         nom: "Directeur des services actifs",
         appellation: "Madame / Monsieur le directeur",
         description: "Une branche de chêne neuf feuilles, trois glands, quatre pointes de diamant blanc",
-        image: "22directeurDesServicesActifs.png"
+        image: "Images/22directeurDesServicesActifs.png"
       },
       {
         nom: "Directeur général de la police nationale",
         appellation: "Madame / Monsieur le directeur général",
         description: "Une branche de chêne neuf feuilles, trois glands, cinq pointes de diamant blanc",
-        image: "23directeurGeneral.png"
+        image: "Images/23directeurGeneral.png"
       },
     // Tu peux ajouter tous les autres grades ici
   ];

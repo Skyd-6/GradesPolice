@@ -44,7 +44,7 @@ const grades = [
       {
         nom: "Major de police",
         appellation: "Major",
-        description: "Un galon blanc avec raie roue, un liseré blanc",
+        description: "Un galon blanc avec raie rouge, un liseré blanc",
         image: "Images/8major.png"
       },
       {

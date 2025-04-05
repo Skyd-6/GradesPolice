@@ -45,6 +45,11 @@ body {
   }
   
   @media (max-width: 480px) {
+
+    body {
+      background-color: #1b1e53;
+    }
+      
     h1 {
       font-size: 22px;
     }

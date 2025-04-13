@@ -1,18 +1,18 @@
 const grades = [
     {
-      nom: "Réserviste",
+      nom: "Policier adjoint réserviste",
       appellation: "Réserviste",
-      description: "Fond bleu clair",
+      description: "Fond bleu clair sans galon",
       image: "Images/1reserviste.png"
     },
     {
       nom: "Policier adjoint",
       appellation: "Adjoint",
-      description: "Fond bleu loire",
+      description: "Fond bleu loire sans galon",
       image: "Images/2adjoint.png"
     },
     {
-        nom: "Gardien de la paix élève",
+        nom: "Elève gardien de la paix",
         appellation: "Gardien",
         description: "Fond noir",
         image: "Images/3gpxEleve.png"
@@ -36,8 +36,8 @@ const grades = [
         image: "Images/6sousBrigadier.png"
       },
       {
-        nom: "Brigadier-chef de police",
-        appellation: "Brigadier-chef",
+        nom: "Brigadier chef de police",
+        appellation: "Brigadier chef",
         description: "Un galon blanc avec raie rouge",
         image: "Images/7brigadierChef.png"
       },
@@ -48,9 +48,9 @@ const grades = [
         image: "Images/8major.png"
       },
       {
-        nom: "Major de police, responsable d'une unité locale de police",
+        nom: "Major de police RULP",
         appellation: "Major",
-        description: "Un galon blanc avec raie rouge, un liseré blanc, un losange blanc",
+        description: "Un galon blanc avec raie rouge, un liseré blanc, un losange contour blanc",
         image: "Images/9majorRulp.png"
       },
       {
@@ -84,63 +84,63 @@ const grades = [
         image: "Images/14commandant.png"
       },
       {
-        nom: "Commandant divisionnaire",
-        appellation: "Commandant divisionnaire",
+        nom: "Commandant divisionnaire de police",
+        appellation: "Commandant",
         description: "Quatre galons blancs, une pointe de diamant or",
         image: "Images/15commandantDivisionnaire.png"
       },
       {
         nom: "Commandant divisionnaire fonctionnel",
-        appellation: "Commandant divisionnaire",
-        description: "Quatre galons blancs, une pointe de diamant blanc",
+        appellation: "Commandant",
+        description: "Quatre galons blancs, une pointe de diamant argent",
         image: "Images/24commandantDivisionnaireFonctionnel.png"
       },
       {
-        nom: "Elève commissaire de police",
-        appellation: "Monsieur / Madame le commissaire",
+        nom: "Elève ou stagiaire commissaire de police",
+        appellation: "Madame ou Monsieur le commissaire",
         description: "Une branche de chêne trois feuilles",
         image: "Images/16commissaireEleve.png"
       },
       {
         nom: "Commissaire de police",
-        appellation: "Monsieur / Madame le commissaire",
+        appellation: "Madame ou Monsieur le commissaire",
         description: "Une branche de chêne cinq feuilles, un gland",
         image: "Images/17commissaire.png"
       },
       {
-        nom: "Commissaire divisionnaire",
-        appellation: "Monsieur / Madame le commissaire divisionnaire",
+        nom: "Commissaire divisionnaire de police",
+        appellation: "Madame ou Monsieur le commissaire divisionnaire",
         description: "Une branche de chêne sept feuilles, deux glands, deux barettes",
         image: "Images/18commissaireDivisionnaire.png"
       },
       {
-        nom: "Commissaire général",
-        appellation: "Monsieur / Madame le commissaire général",
+        nom: "Commissaire général de police",
+        appellation: "Madame ou monsieur le commissaire général",
         description: "Une branche de chêne neuf feuilles, trois glands, deux pointes de diamant or",
         image: "Images/19commissaireGeneral.png"
       },
       {
         nom: "Contrôleur général",
-        appellation: "Monsieur / Madame le contrôleur général",
-        description: "Une branche de chêne neuf feuilles, trois glands, deux pointes de diamant blanc",
+        appellation: "Madame ou Monsieur le contrôleur général",
+        description: "Une branche de chêne neuf feuilles, trois glands, deux pointes de diamant argent",
         image: "Images/20controleurGeneral.png"
       },
       {
         nom: "Inspecteur général",
-        appellation: "Monsieur / Madame l'inspecteur général",
-        description: "Une branche de chêne neuf feuilles, trois glands, trois pointes de diamant blanc",
+        appellation: "Madame ou Monsieur l'inspecteur général",
+        description: "Une branche de chêne neuf feuilles, trois glands, trois pointes de diamant argent",
         image: "Images/21inspecteurGeneral.png"
       },
       {
         nom: "Directeur des services actifs",
-        appellation: "Monsieur / Madame le directeur",
-        description: "Une branche de chêne neuf feuilles, trois glands, quatre pointes de diamant blanc",
+        appellation: "Madame ou Monsieur le directeur",
+        description: "Une branche de chêne neuf feuilles, trois glands, quatre pointes de diamant argent",
         image: "Images/22directeurDesServicesActifs.png"
       },
       {
         nom: "Directeur général de la police nationale",
-        appellation: "Monsieur / Madame le directeur général",
-        description: "Une branche de chêne neuf feuilles, trois glands, cinq pointes de diamant blanc",
+        appellation: "Madame ou Monsieur le directeur général",
+        description: "Une branche de chêne neuf feuilles, trois glands, cinq pointes de diamant argent",
         image: "Images/23directeurGeneral.png"
       },
     // Tu peux ajouter tous les autres grades ici

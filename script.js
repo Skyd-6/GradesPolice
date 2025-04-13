@@ -96,7 +96,7 @@ const grades = [
         image: "Images/24commandantDivisionnaireFonctionnel.png"
       },
       {
-        nom: "Elève commissaire",
+        nom: "Elève commissaire de police",
         appellation: "Monsieur / Madame le commissaire",
         description: "Une branche de chêne trois feuilles",
         image: "Images/16commissaireEleve.png"
